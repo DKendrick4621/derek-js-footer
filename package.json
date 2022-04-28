@@ -1,0 +1,25 @@
+{
+  "name": "firtsnpm",
+  "version": "0.1.0",
+  "description": "dynamic JS footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DKendrick4621/derek-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Derek Kendrick II <derekkendrick79@gmail.com> (https://www.npmjs.com/~sir_juice)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DKendrick4621/derek-js-footer/issues"
+  },
+  "homepage": "https://github.com/DKendrick4621/derek-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
