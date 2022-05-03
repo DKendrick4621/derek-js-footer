@@ -12,5 +12,5 @@ Install with command:
     ```javascript
     import {footer} from 'FIRSTNPM';
 
-    footer('Some Name')
+    footer('Some Name 3')
     ```
