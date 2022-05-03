@@ -11,5 +11,11 @@ exports.footer = function(name) {
     return "Copyright " + moment().format('YYYY') + " " + name + " All rights reserved";
 };
 
+def my_function():
+    return 'hi'
+uno five 6
+
+
 
 asdfasdfasd
+

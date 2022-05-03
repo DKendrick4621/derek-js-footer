@@ -12,7 +12,10 @@ Install with command:
     ```javascript
     import {footer} from 'FIRSTNPM';
 
-    footer('Some Name')
+
+    footer('Some Name 4')
     ```
+
     here we go agin
 back again
+
